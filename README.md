@@ -49,6 +49,12 @@
       </a>
       <br>React Native
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/delphi.png" width="48" height="48" alt="Delphi" />
+      </a>
+      <br>Delphi
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
