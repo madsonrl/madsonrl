@@ -71,6 +71,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
+        <img src="./img/raspberry.svg" width="48" height="48" alt="Raspberry" />
+      </a>
+      <br>Raspberry Pi
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
         <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
