@@ -1,4 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Madson Lemos</h1>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=madsonrl&theme=github_dark&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsonrl&theme=github_dark&show_icons=true" />
 
@@ -11,6 +12,12 @@
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Node" />
+      </a>
+      <br>Node JS
     </td>  
     <td align="center" width="96">
       <a href="#macropower-tech">
