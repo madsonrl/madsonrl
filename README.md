@@ -15,6 +15,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="./img/nodejs.svg" width="48" height="48" alt="Node" />
       </a>
       <br>Node JS
@@ -24,13 +30,7 @@
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
+    </td>    
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
