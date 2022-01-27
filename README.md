@@ -71,6 +71,12 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
+        <img src="./img/opencv.png" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
         <img src="./img/arduino.svg" width="48" height="48" alt="Arduino" />
       </a>
       <br>Arduino
