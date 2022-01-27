@@ -37,6 +37,12 @@
       </a>
       <br>React
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/reactts.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React Native
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
